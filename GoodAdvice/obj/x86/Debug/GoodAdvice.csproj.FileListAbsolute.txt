@@ -45,3 +45,6 @@ D:\Repository\GoodAdvice\GoodAdvice\obj\x86\Debug\GoodAdvice.csprojResolveAssemb
 D:\Repository\GoodAdvice\GoodAdvice\bin\x86\Debug\HtmlAgilityPack.dll
 D:\Repository\GoodAdvice\GoodAdvice\bin\x86\Debug\HtmlAgilityPack.pdb
 D:\Repository\GoodAdvice\GoodAdvice\bin\x86\Debug\HtmlAgilityPack.xml
+C:\Users\1\Desktop\final\GoodAdvice\GoodAdvice\bin\x86\Debug\GoodAdvice.exe.config
+C:\Users\1\Desktop\final\GoodAdvice\GoodAdvice\obj\x86\Debug\GoodAdvice.exe
+C:\Users\1\Desktop\final\GoodAdvice\GoodAdvice\obj\x86\Debug\GoodAdvice.pdb

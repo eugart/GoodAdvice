@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Repository\GoodAdvice\GoodAdvice\obj\x86\Debug\
+C:\Users\1\Desktop\final\GoodAdvice\GoodAdvice\obj\x86\Debug\
 GoodAdvice
 none
 false
 DEBUG;TRACE
-D:\Repository\GoodAdvice\GoodAdvice\App.xaml
+C:\Users\1\Desktop\final\GoodAdvice\GoodAdvice\App.xaml
 61744365654
 471743133828
-20-1955725141
-24-1389412890
+20-1270355095
+24570914489
 HamburgerMenu\Encyclopedia.xaml;HamburgerMenu\CurrentPosition.xaml;HamburgerMenu\Main.xaml;MainWindow.xaml;HamburgerMenu\SearchCarwash.xaml;HamburgerMenu\Settings.xaml;
 
-True
+False
 
